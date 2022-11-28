@@ -27,7 +27,7 @@ Abaixo temos um primeiro exemplo de código JavaScript, que demonstra algumas ca
 
 ```javascript
 var mensagem = 'Olá'; 
-mensagem = 'Olá Danilo'; 
+mensagem = 'Olá Mundo'; 
 
 console.log(mensagem); // comentário 
 // comentário de uma linha 
@@ -66,11 +66,11 @@ Podemos definir objetos contendo as propriedades que desejarmos, sejam elas prim
 
 ```javascript
 var aluno1 = {
-    matricula: 7627364,
-    nome: 'Danilo Ferreira',
-    curso: 'Bootcamp Front End',
+    matricula: 1986101149,
+    nome: 'Marx dos Santos',
+    curso: 'Bootcamp Desenvolvedor React',
     ativo: true
-};
+}
 ```
 
 #### [Arrays](https://www.w3schools.com/js/js_arrays.asp)
